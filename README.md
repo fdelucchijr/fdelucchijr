@@ -1,4 +1,4 @@
-Hi 👋 My name is Fernando Delucchi
+Hi 👋 My name is Fernando De Lucchi
 ==================================
 
 Mobile Full-Stack Developer & Security Oriented Architecture
