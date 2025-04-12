@@ -1,17 +1,25 @@
-Hi 👋 My name is Fernando De Lucchi
+Hi 👋 Welcome to my profile
 ==================================
 
-Mobile Full-Stack Developer & Security Oriented Architecture
-------------------------------------------------------------
+I'm Fernando, and work the tech side in humanity based projets at [Lima/Peru](https://en.wikipedia.org/wiki/Lima) helping non-tech people to map/contribute to their ideas to preserve its core in the development process, with my part humanities, part engineering, part arts background. 
+From a tech stand point I've worked in network security, pentesting, mobile fullstack and AR/VR, and I'm proficient in the complete process from conceptualization, to developing it and deploying it to the Mobile Store, or K8s, also leading/teaching teams into doing it.
+I work for my passions, and ussualy I got obsesed with it, like a painter would do. That passion makes the biggest sign in my work.
 
-*   🌍  I'm based in Lima, Peru
-*   ✉️  You can contact me at [fdelucchijr@gmail.com](mailto:fdelucchijr@gmail.com)
-*   🚀  I'm currently working on [Lateral](http://lateral.org)
-*   🧠  I'm learning AR/VR Programming
-*   🤝  I'm open to collaborating on primarily Self-Hosted projects
+## Some of the projects I'm involved:
+- As Lead Team member in [@Lateral](https://lateral.org), Finalists in Entrepreneurship World Cup 2022. We aim to rehumanize thinking.
+  - Senior Software/DevOps/Infrastructure Engineer
+- As Tech Lead in [@LabXR](https://labxr.pucp.edu.pe) 
+  - Tech Lead and Senior Developer in Pluriverses, an AR Volumetric Video Mobile App.
+  - Tech Lead and Senior Developer in BomberosVR, an Ultra-Low-Cost app for Rural Peruvian Voluntary Firefighters to train in VR emergency situation handling. Waiting to make it OSS.
 
-### Skills 
-<p align="left">
+## Some of the things I love and searching projets with it are
+- Democratization and decentralisation of tech in communities without the option to use it.
+- The rawest possible data collection as a way of memory
+- The impact of tech over local nature and culture
+- How to reinclude excluded people (victims of abuse or neurodivergents)
+
+## Some of my skills are:
+<p align="center">
 <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -31,13 +39,19 @@ Mobile Full-Stack Developer & Security Oriented Architecture
 <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch" /></a>
 </p>
 
-### Socials
-<p align="left">
+
+## Currently working for the pleasure of it in
+- My personal portfolio
+- [@LabXR](https://labxr.pucp.edu.pe) new website
+
+### My "comfort" project: 
+Since 2018 I've self hosted my own infrastructure (a NAS, an RPI 1B, a OPI PC) to host personal services like N8N and Penpot. That project has expanded so much that is like my own small little garden. [Since some time I've maked public the GitOps manifests from my K8s cluster](https://github.com/fdelucchijr), but I will be expanding the repository as I got more time.
+Due to the lack of ARM64 docker images for some self-hosting projects, ***a lot*** of the repos in my profile are contributions for the docker build for that architecture.
+
+## Contact me!
+Through [fdelucchijr@gmail.com](mailto:fdelucchijr@gmail.com) or with 
+<p align=center>
 <a href="https://discord.com/users/fdelucchijr#0266" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
 <a href="https://www.github.com/fdelucchijr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 <a href="https://www.linkedin.com/in/fernando-de-lucchi-65084b164" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-### Badges
-<b>My GitHub Stats</b>
-<p align="left">
-<a href="http://www.github.com/fdelucchijr"><img src="https://github-readme-stats.vercel.app/api?username=fdelucchijr&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&show_icons=true" alt="fdelucchijr's GitHub stats" /></a>
+I'm open to hearing any word you have, from a question to a proposal. I'm alway looking for new friends, and specially if they are interested in social impact projects, Self-Hosting, or to mix art/performance with tech.
