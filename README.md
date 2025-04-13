@@ -10,7 +10,7 @@ I work for my passions, and ussualy I got obsesed with it, like a painter would 
   - Senior Software/DevOps/Infrastructure Engineer
 - As Tech Lead in [@LabXR](https://labxr.pucp.edu.pe) 
   - Tech Lead and Senior Developer in Pluriverses, an AR Volumetric Video Mobile App.
-  - Tech Lead and Senior Developer in BomberosVR, an Ultra-Low-Cost app for Rural Peruvian Voluntary Firefighters to train in VR emergency situation handling. Waiting to make it OSS.
+  - Tech Lead and Senior Developer in [BomberosVR](https://labxr-pucp-edu-pe.translate.goog/proyectos/bomberos-vr?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp), an Ultra-Low-Cost app for Rural Peruvian Voluntary Firefighters to train in VR emergency situation handling. Waiting to make it OSS.
 
 ## Some of the things I love and searching projets with it are
 - Democratization and decentralisation of tech in communities without the option to use it.
