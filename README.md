@@ -5,7 +5,7 @@ I'm Fernando, and work the tech side in humanity based projets at [Lima/Peru](ht
 From a tech stand point I've worked in network security, pentesting, mobile fullstack and AR/VR, and I'm proficient in the complete process from conceptualization, to developing it and deploying it to the Mobile Store, or K8s, also leading/teaching teams into doing it.
 I work for my passions, and ussualy I got obsesed with it, like a painter would do. That passion makes the biggest sign in my work.
 
-## Some of the projects I'm involved:
+## Some of the projects I'm involved
 - As Lead Team member in [@Lateral](https://lateral.org), Finalists in Entrepreneurship World Cup 2022. We aim to rehumanize thinking.
   - Senior Software/DevOps/Infrastructure Engineer
 - As Tech Lead in [@LabXR](https://labxr.pucp.edu.pe) 
@@ -18,7 +18,7 @@ I work for my passions, and ussualy I got obsesed with it, like a painter would 
 - The impact of tech over local nature and culture
 - How to reinclude excluded people (victims of abuse or neurodivergents)
 
-## Some of my skills are:
+## Some of my skills are
 <p align="center">
 <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
@@ -44,7 +44,7 @@ I work for my passions, and ussualy I got obsesed with it, like a painter would 
 - My personal portfolio
 - [@LabXR](https://labxr.pucp.edu.pe) new website
 
-### My "comfort" project: 
+### My "comfort" project
 Since 2018 I've self hosted my own infrastructure (a NAS, an RPI 1B, a OPI PC) to host personal services like N8N and Penpot. That project has expanded so much that is like my own small little garden. [Since some time I've maked public the GitOps manifests from my K8s cluster](https://github.com/fdelucchijr), but I will be expanding the repository as I got more time.
 Due to the lack of ARM64 docker images for some self-hosting projects, ***a lot*** of the repos in my profile are contributions for the docker build for that architecture.
 
