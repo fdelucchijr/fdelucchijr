@@ -12,19 +12,26 @@ I work for my passions, and usually, I get obsessed with it, like a painter woul
   - Tech Lead and Senior Developer in Pluriverses, an AR Volumetric Video Mobile App.
   - Tech Lead and Senior Developer in [BomberosVR](https://labxr-pucp-edu-pe.translate.goog/proyectos/bomberos-vr?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp), an Ultra-Low-Cost app for Rural Peruvian Voluntary Firefighters to train in VR emergency situation handling. Waiting to make it OSS.
 
-## Some of my passions (and searching projects with it are)
+<details>
+<summary>
+
+## More stuff about me
+</summary>
+
+### Some of my passions (and searching projects with it are)
 1. Democratization and decentralisation of tech in communities without the option to use it.
 2. The rawest possible data collection as a way of memory
 3. The impact of tech on local nature and culture
 4. How to reinclude excluded people (victims of abuse or neurodivergents)
 
-## About my motivations
+### About my motivations
 I choose the projects I’m in for its mission, an impact in my communities, from more broad to my most intimate circle; but having fun, entering the same state as while improvising in piano, and fulfilling my curiosity are other very major things that drives me to contribute to something.
 
-## Things I'm learning now
+### Things I'm learning now
 - [Astro (JS Framework)](https://astro.build)
 - [Transmedia Knowledge for Liberal Arts and Community Engagement](https://link.springer.com/book/10.1007/978-3-030-20574-4)
 - General Graphic Design (In the projects I'm involved theres always a need for custom UI, I wanna be more useful)
+</details>
 
 ## Some of my skills are
 <p align="center">
@@ -63,3 +70,18 @@ Through [fdelucchijr@gmail.com](mailto:fdelucchijr@gmail.com) or with
 <a href="https://www.github.com/fdelucchijr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 <a href="https://www.linkedin.com/in/fernando-de-lucchi-65084b164" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 I'm open to hearing any word you have, from a question, or an advice, to a proposal. I'm always looking for new friends, especially if they are interested in social impact projects, Self-Hosting, or mixing art/performance with tech.
+
+<details>
+<summary>
+
+## If you get this far 🌟
+</summary>
+
+### Have some memes
+
+Some gratitude | Me checking for 7th time my procedure | Humanities on da house!
+---- | ---- | ---
+<img src="https://instagram.flim38-1.fna.fbcdn.net/v/t51.2885-15/37381052_2169324609965647_5430391962836402176_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi42MjV4NDY4LnNkci5mMjg4NS5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.flim38-1.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2QG8rUt8FeI8JIwp_1fjp1vF8Ii2Bw8r-YOfzqi9rGmr_9CDUM_n_9UpX4IsOBeBYhY&_nc_ohc=SjEDksn3RZoQ7kNvwFT8OTl&_nc_gid=ziTeDET0yBZlplXP9koCzg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfGNHxVOLwoRdYB3lsY5RxNWmx--Bayd7LArgwwd2mcMHA&oe=680452AC&_nc_sid=d885a2"> | <img src="https://preview.redd.it/is-there-anything-quadratic-cant-solve-even-ping-pong-v0-qqhonya7v6ue1.jpeg?width=1080&crop=smart&auto=webp&s=b2478ee11800c50f1568929dfa4adad51774d239"> | <img src="https://i.redd.it/f0x39re6w2te1.jpeg"> |
+From me to the 6 people who came to my profile | | The salty snow of Maria Antonieta really heat up the situation
+
+</details>
